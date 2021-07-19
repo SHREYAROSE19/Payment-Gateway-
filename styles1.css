@@ -4,7 +4,7 @@
 #midSection{
     height:480px;
     width:100%;
-    background-image:url('7.jpg');
+    background-image:url(7.jpg);
     background-size:100rem 45rem;
     background-repeat: no-repeat;
 }
