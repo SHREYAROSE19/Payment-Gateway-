@@ -1,0 +1,82 @@
+.img1{
+  width:5%;
+  height:0.5%;
+  margin-left:1.5%;
+  display: inline-block;
+  margin-right:1.5%;
+}
+.Title1{
+float:right;
+margin-left:10%;
+margin-top:1.5%;
+font-size: 1.7rem;
+font-family: 'Montserrat', sans-serif;
+}
+.list1{
+   margin-left: 69%;
+
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+
+  height:400px;
+}
+.carousel-item{
+  height:30rem;
+    background-image:url('C:/Users/KIIT/Downloads/SEMESTER 3-8 INFO/webdev preparation/angela course/Sparks Foundation/images/11.jpg');
+}
+.cas_img{
+  height:37rem;
+  width:100%;
+}
+.cas_img1{
+  height:30rem;
+  width:100%;
+}
+.cas_img1{
+  height:40rem;
+  width:100%;
+}
+.head1{
+  color:#EEEEEE;
+  font-family: 'Caveat', cursive;
+}
+.head2{
+  color:#393E46;
+  font-family: 'Caveat', cursive;
+}
+.head3{
+  color:#393E46;
+  font-family: 'Caveat', cursive;
+}
+.head4{
+  color:#EEEEEE;
+  font-family: 'Caveat', cursive;
+}
+.divi1{
+  position: absolute;
+  top:60%;
+  margin-left:50%;
+
+}
+.divi2{
+  position: absolute;
+   top:30%;
+  margin-right:55%;
+}
+.divi3{
+   position: absolute;
+   top:1px;
+}
+.divi4{
+  position: absolute;
+   top:40%;
+  margin-right:55%;
+}
+.buoy{
+  padding-left:5%;
+  padding-right: 5%;
+}
+.middle{
+  background-image: url("C:\Users\KIIT\Downloads\SEMESTER 3-8 INFO\webdev preparation\angela course\Sparks Foundation\images\777.jpg");
+}

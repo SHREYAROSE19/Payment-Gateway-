@@ -1,0 +1,129 @@
+.upper-container{
+  height:94.72px;
+}
+#midSection{
+    height:480px;
+    width:100%;
+    background-image:url('C:/Users/KIIT/Downloads/SEMESTER 3-8 INFO/webdev preparation/angela course/Sparks Foundation/images/7.jpg');
+    background-size:100rem 45rem;
+    background-repeat: no-repeat;
+}
+.spark{
+  width:100%;
+  height:30rem;
+}
+.middle{
+  height:400px;
+  width:100%;
+}
+.stud{
+  height:30rem;
+  width:100%;
+}
+.fem{
+    font-family: 'Caveat', cursive;
+
+    margin-left:5%;
+}
+.para{
+  font-family: 'Quicksand', sans-serif;
+    margin-left:5%;
+    margin-right: 5%;
+    line-height: 2;
+    color:black;
+}
+.eh{
+  padding-left: 0;
+}
+#features
+{
+  padding: 7% 0;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  height:30rem;
+}
+
+.feature
+{
+  text-align: center;
+  padding: 5%;
+
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p
+{
+  color: #8f8f8f;
+}
+.short{
+  height:24%;
+  width:25%;
+}
+.bottom{
+  background-color: #EEEEEE;
+  height:60%;
+  width:100%;
+}
+
+.social-menu ul {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.social-menu ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+.social-menu ul li .fa {
+    color: #000000;
+    font-size: 25px;
+    line-height: 50px;
+    transition: 0.5s;
+}
+.social-menu ul li .fa:hover {
+    color: white;
+}
+.social-menu ul li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin-top: 790px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    background-color:rgba(255,255,255,0.01);
+
+    text-align: center;
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+}
+.social-menu ul li a:hover {
+    transform: rotate(0deg) skew(0deg) translate(0, -10px);
+}
+.social-menu ul li:nth-child(1) a:hover {
+    background-color: #0077B5;
+}
+.social-menu ul li:nth-child(2) a:hover {
+    background-color: #3b5999;
+}
+
+.social-menu ul li:nth-child(3) a:hover {
+    background-color: #e4405f;
+}
+.comp{
+
+  text-align: center;
+background-color: #EEEEEE;
+  color:grey;
+}
